@@ -1,2 +1,1 @@
-Every language-specific code is in the language branch
-For algorithms that can be used in every language, look in the generic branch
+Codes here are only used in Arduino-C language, with arduino specific codes (interrupts, spi, etc...)
