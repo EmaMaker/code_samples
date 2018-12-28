@@ -1,4 +1,2 @@
-Code Samples
-
-Code in this branch are useful in every language and can be easily translated in other languages.
-Just read the concept, not the code
+Every language-specific code is in the language branch
+For algorithms that can be used in every language, look in the generic branch
