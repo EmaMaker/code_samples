@@ -1,3 +1,5 @@
+// this code works on linux 
+
 #include <stdio.h>
 #include <stdlib.h>
 
